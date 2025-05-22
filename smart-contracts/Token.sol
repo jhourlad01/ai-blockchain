@@ -5,7 +5,7 @@ pragma solidity ^0.8.0;
  * @title SimpleToken
  * @dev A basic ERC20-like token contract for demonstration purposes.
  */
-contract SimpleToken {
+contract Token {
     string public name = "SimpleToken";
     string public symbol = "SIM";
     uint8 public decimals = 18;
