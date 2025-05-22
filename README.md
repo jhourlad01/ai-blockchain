@@ -30,5 +30,5 @@ A collection of blockchain-related projects enhanced with AI-powered tools and t
 ## 📌 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/ai-blockchain.git
+git clone https://github.com/jhourlad01/ai-blockchain.git
 cd ai-blockchain
